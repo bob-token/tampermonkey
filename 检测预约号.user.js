@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         检测预约号
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
+// @updateURL    https://github.com/bob-xu/tampermonkey/blob/master/%E6%A3%80%E6%B5%8B%E9%A2%84%E7%BA%A6%E5%8F%B7.user.js
 // @description  try to take over the world!
 // @author       You
 // @match        http://aux.szhr.com/pasr/reserv.action?r=0.9628721010304468
 // @grant        none
+// @downloadURL  https://github.com/bob-xu/tampermonkey/blob/master/%E6%A3%80%E6%B5%8B%E9%A2%84%E7%BA%A6%E5%8F%B7.user.js
+//
 // ==/UserScript==
 
 //debugger;
